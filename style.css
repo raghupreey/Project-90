@@ -1,0 +1,49 @@
+body
+{
+	text-align: center;
+	
+}
+
+	.login_div1 , .login_div2
+	{
+		background: deeppink;
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+	}
+
+
+#player1_name , #player2_name
+{
+	display: inline-block;
+	margin-left: 20px;
+}
+#word
+{
+	width: 60%;
+}
+#word_display
+{
+	letter-spacing: 5px;
+}
+#output
+{
+background:hotpink;
+border-radius: 10px;
+border-top: 10px solid #AA4465;
+padding: 10px;
+float: none;
+text-align: left;
+}
+
+#Login{
+  height:" 10px";
+  width:" 10px";
+}
+img{
+  height: 500px;
+  width: 500000000000000000000000000000000000000000000000000px;
+}
+center{
+  text-align: center;
+}
